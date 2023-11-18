@@ -1,0 +1,23 @@
+/* Post.css */
+.post-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    max-width: 300px;
+  }
+  
+  .post-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .post-comments {
+    margin-top: 10px;
+  }
+  
+  .comment-input {
+    margin-top: 10px;
+  }
+  
+  /* You can add more styles based on your design */
+  

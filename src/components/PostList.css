@@ -1,0 +1,9 @@
+/* PostList.css */
+.post-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  /* You can add more styles based on your design */
+  

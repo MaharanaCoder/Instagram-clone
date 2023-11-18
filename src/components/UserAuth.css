@@ -1,0 +1,49 @@
+/* UserAuth.css */
+.user-auth {
+    margin-bottom: 20px;
+  }
+  
+  .user-auth input {
+    margin-right: 10px;
+  }
+  
+  /* You can add more styles based on your design */
+  /* UserAuth.css */
+.user-auth {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-auth input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #f10990;
+    border-radius: 4px;
+  }
+  
+  .user-auth button {
+    padding: 8px 12px ;
+    background-color: #fa3802;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-right: 20px;
+
+  }
+  
+  .user-auth button:hover {
+    background-color: #ea6b54;
+  }
+
+  .welcome-message {
+    font-size: 3rem; /* Increase the font size as needed */
+    color: #ebdee9; /* Set the color to your preferred color */
+    margin-left: 12px;
+    margin-right: 10px; /* Adjust the margin as needed */
+    font-weight: bold;
+  }
+  
+  /* You can add more styles based on your design */
+  

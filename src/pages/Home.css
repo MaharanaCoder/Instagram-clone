@@ -1,0 +1,61 @@
+body{
+   background: white;
+}
+
+/* Home.css */
+.container {
+    position: relative;
+    min-height: 100vh;
+    padding-top: 60px;
+  }
+  
+  .header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    border:#dc2743;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+    color: white; /* Set the text color to white */
+  }
+  
+  .logo {
+    width: 50px;
+    height: auto;
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
+  .logo-text {
+    width: 120px;
+    height: auto;
+    margin-right: 75px;
+    
+    /* font: "custom, sans-serif"; */
+    /* Adjust the font size as needed */
+   }
+   
+  .user-auth-container {
+    display: flex;
+    align-items: center;
+    color: white; /* Set the text color to white */
+  }
+  
+  .post-list-container {
+    margin-top: 80px;
+  }
+  
+  /* You can add more styles based on your design */
+  
